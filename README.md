@@ -1,6 +1,6 @@
 # Happy Birthday Palak Chauhan! 🎂🎈
 
-A beautiful, interactive birthday web app dedicated to **Sonakshi**, built with HTML, CSS, and JavaScript.  
+A beautiful, interactive birthday web app dedicated to **Palak Chauhan**, built with HTML, CSS, and JavaScript.  
 It features an improved UI, smart URL/search handling, and a playful experience designed to feel like a personal digital gift.
 
 ---
