@@ -38,7 +38,7 @@ It features an improved UI, smart URL/search handling, and a playful experience 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-user/your-repo.git
+   git clone  https://github.com/Kiik913/Happy-Birthday-Palak-Chauhan-Full-webpage-With-google-forced-limitation.git
    ```
 
 2. Open the project folder:
