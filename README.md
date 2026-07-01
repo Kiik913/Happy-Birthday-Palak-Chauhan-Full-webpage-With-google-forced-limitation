@@ -15,14 +15,9 @@ It features an improved UI, smart URL/search handling, and a playful experience 
 
 ---
 
-## Live Demo / Links
+## 🌐 Demo You can try Nexura OS right now by opening the ` Happy Birthday Palak Chauhan! 🎂🎈.html` file in your browser, or by hosting it on any static server (GitHub Pages, Netlify, etc.).
 
-- Live Site: `https://your-live-url-here`
-- GitHub Repo: `https://github.com/your-user/your-repo`
-- (Optional) Previous version: `https://link-to-old-version-if-any`
-
-(Replace these with your real links after deployment.)
-
+https://hcodx.com/vs-editor?project=p_mr1u1k2o_3z0iv1
 ---
 
 ## Tech Stack
